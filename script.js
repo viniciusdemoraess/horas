@@ -10,19 +10,19 @@ function carregar(){
     if(hora >=0 && hora <12){
         //Bom Dia!
 
-        img.src = 'manha-menor.png'
+        img.src = './img/manha-menor.png'
         document.body.style.background = '#ac961dce'
 
     } else if (hora >=12 && hora <=18){
         //Boa Tarde!
 
-        img.src = 'tarde-menor.png'
+        img.src = './img/tarde-menor.png'
         document.body.style.background = '#efb765'
 
     } else{
         //Boa Noite!
 
-        img.src = 'noite-menor.png'
+        img.src = './img/noite-menor.png'
         document.body.style.background = '#162645'
     }
 
