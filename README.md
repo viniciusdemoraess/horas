@@ -1,11 +1,11 @@
 # horas
-<h1>Exercicio para mostrar horas e imagem que se faz referência</h1>
+<h2 text-aling="center">Exercicio para mostrar horas e imagem que se faz referência</h2>
 
-<h2>Bom dia!</h2>
-<img id="imagem" src="manha-menor.png" alt="">
+<p text-aling="center">Bom dia!</p>
+<img id="imagem" src="IMGDIAA.png" alt="">
 
-<h2>Boa Tarde!</h2>
-<img id="imagem" src="manha-menor.png" alt="">
+<p text-aling="center">Boa Tarde!</p>
+<img id="imagem" src="IMGNOTCHE.png" alt="">
 
-<h2>Boa Noite!</h2>
-<img id="imagem" src="manha-menor.png" alt="">
+<p text-aling="center">Boa Noite!</p>
+<img id="imagem" src="IMGTARDEE.png" alt="">
